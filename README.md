@@ -35,8 +35,5 @@ git submodule init
 git submodule update
 ```
 
-## 4. Known issues
-- 如果use_resources的client application name过长，会导致MySQL Server崩溃。([issue#1](https://github.com/laincloud/mysql-resource/issues/1))
-
-## 5. License
+## 4. License
 MySQL-Resource遵循[MIT](https://github.com/laincloud/mysql-resource/blob/master/LICENSE)开源协议。
