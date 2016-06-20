@@ -1,6 +1,6 @@
 # MySQL Resource
 
-## Introduction
+## 1. Introduction
 
 MySQL Resource是MySQL Service的Resource化。适用于需要独占MySQL实例的应用。其功能和MySQL Service类似，可以参考MySQL Service的[相关文档](http://github.com/laincloud/mysql-service/blob/master/README.md)。本文档只介绍Resource的配置。
 
